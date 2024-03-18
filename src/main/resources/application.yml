@@ -1,6 +1,0 @@
-api:
-  baseUrl: https://api.quotable.io
-  quoteRandomEndpoint: /quotes/random
-  authorsEndpoint: /authors
-  searchQuotesEndpoint: /search/quotes
-  searchAuthorsEndpoint: /search/authors
